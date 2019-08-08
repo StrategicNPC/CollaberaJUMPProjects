@@ -2,7 +2,7 @@
 
 int i = 1;
 while (i < ArrayList.size()){
-    if (ArrayList.get(i) < ArrayList.get(i-1)){
+    if (ArrayList.get(i) > ArrayList.get(i-1)){
         ArrayList.remove(i);
         i--;
     }
