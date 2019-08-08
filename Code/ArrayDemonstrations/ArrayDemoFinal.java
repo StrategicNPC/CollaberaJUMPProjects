@@ -1,3 +1,5 @@
+// By William Clark and Omran Losinno
+
 public class ArrayDemoFinal{
     public static void main(String[] args) {
 
